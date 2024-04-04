@@ -1,4 +1,4 @@
-package FactoryMethod.developers;
+package factoryMethod.objects;
 
 public class KotlinDeveloper implements Developer{
     @Override

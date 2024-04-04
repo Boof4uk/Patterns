@@ -1,9 +1,13 @@
-package FactoryMethod.developers;
+package abstractFactory.objects;
 
 public class JavaDeveloper implements Developer {
 
     @Override
     public void writeCode() {
-        System.out.println("JavaDev write Java code");
+        System.out.println("Writing banking code");
     }
 }
+
+
+
+

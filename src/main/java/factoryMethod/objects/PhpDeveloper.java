@@ -1,4 +1,4 @@
-package FactoryMethod.developers;
+package factoryMethod.objects;
 
 public class PhpDeveloper implements Developer{
     @Override

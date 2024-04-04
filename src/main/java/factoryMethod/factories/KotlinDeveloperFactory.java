@@ -1,7 +1,7 @@
-package FactoryMethod.developerFactories;
+package factoryMethod.factories;
 
-import FactoryMethod.developers.Developer;
-import FactoryMethod.developers.KotlinDeveloper;
+import factoryMethod.objects.Developer;
+import factoryMethod.objects.KotlinDeveloper;
 
 public class KotlinDeveloperFactory implements DeveloperFactory {
     @Override
